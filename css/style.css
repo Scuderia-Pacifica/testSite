@@ -17,6 +17,11 @@ body {
 	height: 2.5rem;
 }
 
+.img-product {
+    width: 10rem;
+    height: auto;
+}
+
 .bg-navy {
 	background-color: #02075d !important;
 }
